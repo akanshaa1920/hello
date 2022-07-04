@@ -1,0 +1,41 @@
+section{
+    padding: 7% 25% 7% 20%;
+    height: 100vh;
+}
+
+.sec-heading{
+    font-size: 3rem;
+    padding-bottom: 25px;
+    color: #f1f1f1;
+    font-weight: bolder;
+
+}
+
+.home-heading{
+    font-size: 5rem;
+    padding-bottom: 20px;
+}
+
+.home-p{
+    width: 65%;
+    color: #d6d6d6;
+}
+
+.intro{
+    padding-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto 0;
+}
+
+.hi{
+    display: block;
+}
+
+
+
+.name{
+    color: #64FFDA;
+    font-weight: 700;
+}
